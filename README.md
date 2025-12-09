@@ -9,19 +9,22 @@
 
 ## Web Version can be found at [jadestone.artalxing.com](https://jadestone.artalxing.com) (Latest Version Only!)
 
-![Manage your city](/resources/images/Worker%20Change.png)
-
 **Manage the production of your city! Make sure your people are fed and happy, otherwise you might have a rebellion on your hands!**
 
-![Send Daily Oracles](/resources/images/Oracle.png)
+![Manage your city](/resources/images/Worker%20Change.png)
 
 **Send an oracle every day to your city, telling them what to do! Just make sure you don't take too long!**
 
-![Upgrade your City](/resources/images/Upgrades.png)
+![Send Daily Oracles](/resources/images/Oracle.png)
+
 **Make your city stronger so you can keep up with the power of others**
 
-![Engage in War](/resources/images/Wars.png)
+![Upgrade your City](/resources/images/Upgrades.png)
+
 **Declare wars and fight them off for amazing rewards! Just make sure you are ready for them to attack back!**
 
-![Utilize Economics](/resources/images/Mr%20Darp.png)
+![Engage in War](/resources/images/Wars.png)
+
 **Engage in a simulation system that utilizes basic microeconomics principles to create a more realistic simulation!**
+
+![Utilize Economics](/resources/images/Mr%20Darp.png)
