@@ -3,7 +3,7 @@ name: Tutorial/Guide Issue
 about: 'Report an issue revolving around the tutorial/documentation within Jadestone
   City: Back to the Stone Age'
 title: Tutorial/Guide Issue
-labels: tutorial issue
+labels: tutorial/guide issue
 assignees: ''
 
 ---
